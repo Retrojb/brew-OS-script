@@ -1,0 +1,28 @@
+### Quick links to all of the GUI's
+
+VS CODE
+https://code.visualstudio.com/download
+
+Mongo Compass
+https://www.mongodb.com/products/compass
+
+Google Chrome
+https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAiAnfjyBRBxEiwA-EECLJLGa4Zy4NDsmjbBPa049A-KjdCnd8A9ie_4x996jTgWZ05bT3zBWBoCsUMQAvD_BwE&gclsrc=aw.ds
+extensions: Light house, 1 password, dark themes
+
+Bear Notes
+https://bear.app/
+
+1Pass
+https://1password.com/downloads/mac/
+
+Docker for Desktop
+https://www.docker.com/products/docker-desktop
+
+Postman 
+https://www.postman.com/downloads/
+
+Github Desktop
+https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop
+
+
